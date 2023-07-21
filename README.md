@@ -2,7 +2,7 @@
 
 This is a dark-light contrast website for a portfolio. All elements can be edited to suit your needs.
 
-<img src="./images/screen.png" />
+<img src="#" />
 
 ## Features
 
