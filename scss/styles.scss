@@ -30,6 +30,12 @@
 }
 
 
+.about-img {
+
+    width: 200px;
+}
+
+
 @media (max-width: 767px) {
     .header .social i {
         font-size: 30px;
@@ -37,5 +43,9 @@
 
     .header .roles {
         font-size: 18px !important;
+    }
+
+    .about-content {
+        flex-direction: column;
     }
 }
